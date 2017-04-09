@@ -1,0 +1,50 @@
+{
+  "name": "node-react-native-authentication",
+  "version": "0.0.1",
+  "description": "node-react-native-authentication",
+  "main": "server.js",
+  "dependencies": {
+    "async": "^2.1.5",
+    "body-parser": "^1.17.0",
+    "compression": "^1.6.2",
+    "cuid": "^1.3.8",
+    "express": "^4.15.0",
+    "fs-extra": "^2.0.0",
+    "helmet": "^1.3.0",
+    "log4js": "^0.6.38",
+    "method-override": "^2.3.7",
+    "morgan": "^1.8.1",
+    "mysql": "^2.13.0",
+    "q": "^1.4.1",
+    "simple-encryptor": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-vendor": "0.0.4",
+    "gulp-env": "^0.4.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^2.2.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "mocha-jenkins-reporter": "^0.2.6",
+    "should": "^8.4.0",
+    "supertest": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasankh/node-react-native-authentication.git"
+  },
+  "author": "Sasankh BC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasankh/node-react-native-authentication/issues"
+  },
+  "homepage": "https://github.com/sasankh/node-react-native-authentication#readme"
+}
